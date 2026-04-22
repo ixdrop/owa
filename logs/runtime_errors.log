@@ -1,0 +1,3 @@
+[26-Aug-2025 14:06:45 UTC] SQLite cache cleanup: removed 1 expired entries
+[26-Aug-2025 14:07:08 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/?fields=status,message,country,countryCode,region,regionName,city,zip,lat,lon,timezone,isp,org,as,query): Failed to open stream: HTTP request failed! in /Users/jmathew/PhpstormProjects/redirection-script/Redirection/app/addon/tools.php on line 965
+[26-Aug-2025 14:07:08 UTC] PHP Warning:  Undefined variable $127.0.0.1 in /Users/jmathew/PhpstormProjects/redirection-script/Redirection/app/addon/tools.php on line 932
